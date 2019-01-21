@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-01-19T09:25:48Z" name="Default suite" finished-at="2019-01-19T09:26:00Z" duration-ms="11591">
+    <groups>
+    </groups>
+    <test started-at="2019-01-19T09:25:48Z" name="Default test" finished-at="2019-01-19T09:26:00Z" duration-ms="11591">
+      <class name="MavenProjectFramework.MavenProjectFramework.CreateCustomer">
+        <test-method signature="createCustomer()[pri:0, instance:MavenProjectFramework.MavenProjectFramework.CreateCustomer@bccb269]" started-at="2019-01-19T14:55:48Z" name="createCustomer" finished-at="2019-01-19T14:56:00Z" duration-ms="11560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomer -->
+        <test-method signature="deleteCustomer()[pri:0, instance:MavenProjectFramework.MavenProjectFramework.CreateCustomer@bccb269]" started-at="2019-01-19T14:56:00Z" name="deleteCustomer" finished-at="2019-01-19T14:56:00Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+        <test-method signature="modifyCustomer()[pri:0, instance:MavenProjectFramework.MavenProjectFramework.CreateCustomer@bccb269]" started-at="2019-01-19T14:56:00Z" name="modifyCustomer" finished-at="2019-01-19T14:56:00Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyCustomer -->
+      </class> <!-- MavenProjectFramework.MavenProjectFramework.CreateCustomer -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
