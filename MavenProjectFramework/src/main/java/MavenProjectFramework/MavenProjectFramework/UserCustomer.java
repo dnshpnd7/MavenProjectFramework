@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 public class UserCustomer {
 	@Test
-	public void UserCreateCustomer()
+	public void UserCreatCustomer()
 	{
 		
 	
