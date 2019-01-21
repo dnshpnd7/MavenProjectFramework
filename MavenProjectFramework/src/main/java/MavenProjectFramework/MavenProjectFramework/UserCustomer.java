@@ -12,7 +12,7 @@ public class UserCustomer {
 				System.out.println("execute Create User customer");
 	}
 	@Test
-	public void modifyUserCustomer()
+	public void UsermodifyCustomer()
 	{
 		System.out.println("execute Modify User customer");
 	}
